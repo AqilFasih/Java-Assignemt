@@ -11,7 +11,7 @@
 
 // Q-1
 
-   var invalid = 'Error please enter a valid password'  
+var invalid = 'Error please enter a valid password'  
 
 alert(invalid)
 
