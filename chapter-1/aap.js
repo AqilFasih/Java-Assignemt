@@ -8,12 +8,22 @@
 // alert(isClassGoingOn)
 // alert(noOfStudentsPassed)
 
+// Only Alert Question: 
+
+// alert("Thanks for your input!");
+// alert("Thanks for your first name!");
+// alert("Thanks for your last name !");
+// alert("Thanks for your Email ");
+// alert("Thanks for your Password ");
+
+
+// Question Alert with Variable  
 
 // Q-1
 
-var invalid = 'Error please enter a valid password'  
-
+var invalid = 'please enter a valid password'
 alert(invalid)
+
 
 // Q-2
 
@@ -41,3 +51,5 @@ alert(coding)
     var run = 'Hello... I can JS through my web browers'  
 
     alert(run)
+
+
