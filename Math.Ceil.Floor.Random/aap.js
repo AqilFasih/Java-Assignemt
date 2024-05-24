@@ -1,0 +1,3 @@
+//Math Ceil
+
+console.log ()

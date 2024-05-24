@@ -1,0 +1,31 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    margin: 0 auto;
+    display:flex ;
+    
+
+}
+
+.child{
+    display: flex;
+    gap: 20px;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+button:hover{
+    background-color: rgb(207, 204, 204);
+    cursor: pointer;
+    
+}
+
+    

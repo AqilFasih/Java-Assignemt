@@ -24,11 +24,11 @@ var heading = document.getElementById('heading')
 var para = document.getElementById('para')
 heading.innerText = 'We are learning Dom'
 heading.style.color="red" 
-heading.style.backgroundColor="Blue"
+heading.style.backgroundColor="pink"
 para.style.backgroundColor="lightgreen"
 console.log(para)
 
 function changecolor (color){
-    heading.style.color = 
-    para .style.color= 
+    heading.style.color = color
+    para.style.color= color
 }
