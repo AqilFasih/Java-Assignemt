@@ -22,5 +22,5 @@
 
 
 
-document.write 
+alert("Thanks for your input!");
 

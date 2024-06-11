@@ -1,0 +1,10 @@
+.body{
+    align-items: center;
+}
+#part{
+   width: 70em;
+   margin-top: 20px;
+   height: 50em;
+   border: 2px solid black;
+   
+}
