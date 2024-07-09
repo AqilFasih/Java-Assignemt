@@ -28,6 +28,12 @@ console.log (cities)
 
 
 var fruits = ['Banana','Mango','Orange','Pech','Apple','Watermelon']
-//add karna 
-fruits.splice(1,0,'stawbbary')
+
+//add karna our Agyr ki Value ko add karna 
+
+fruits.splice(3,3, "Stwebary", "coconut")
+
+console.log (fruits)
+
+
 
